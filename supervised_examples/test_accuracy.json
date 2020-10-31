@@ -1,0 +1,10 @@
+{
+    "model_name": [
+        "../models/pretrained-epoch=21.ckpt",
+        "../models/scratch-epoch=52.ckpt"
+    ],
+    "accuracies": [
+        0.543749988079071,
+        0.5112500190734863
+    ]
+}
