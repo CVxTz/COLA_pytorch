@@ -1,4 +1,7 @@
 # COLA
+(Unofficial)-Re-Impementation of the model archiecture of CONTRASTIVE LEARNING OF GENERAL-PURPOSE AUDIO REPRESENTATIONS in PyTorch.
+
+Paper: [CONTRASTIVE LEARNING OF GENERAL-PURPOSE AUDIO REPRESENTATIONS](https://arxiv.org/abs/2010.10915)
 
 ### Install
 ```
