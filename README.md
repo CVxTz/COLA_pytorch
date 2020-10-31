@@ -3,14 +3,14 @@
 
 Paper: [CONTRASTIVE LEARNING OF GENERAL-PURPOSE AUDIO REPRESENTATIONS](https://arxiv.org/abs/2010.10915)
 
+Paper's Official Code (In tensorflow): [tf-code](https://github.com/google-research/google-research/tree/master/cola)
+
 ### Install
 ```
 python -m pip install .
 ```
 
 ### Run
-
-Uncomment relevant lines in run.sh
 
 ```
 # Data download: download fma data and metadata
