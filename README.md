@@ -7,6 +7,8 @@ Paper's Official Code (In tensorflow): [tf-code](https://github.com/google-resea
 
 ### Install
 ```
+git clone https://github.com/CVxTz/COLA_pytorch
+cd COLA_pytorch
 python -m pip install .
 ```
 
