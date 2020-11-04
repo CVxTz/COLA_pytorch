@@ -8,7 +8,7 @@
 #
 ## Data preparation : prepare json with fma_small labels and pre-compute mel-spectrograms and save them as .npy
 #
-#python audio_encoder/prepare_data.py --metadata_path "/media/ml/data_ml/fma_metadata/"
+#python supervised_examples/prepare_data.py --metadata_path "/media/ml/data_ml/fma_metadata/"
 #python audio_encoder/audio_processing.py --mp3_path "/media/ml/data_ml/fma_large/"
 #python audio_encoder/audio_processing.py --mp3_path "/media/ml/data_ml/fma_small/"
 #
