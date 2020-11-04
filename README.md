@@ -45,3 +45,6 @@ python supervised_examples/cnn_genre_classification.py --metadata_path "/media/m
   --encoder_path "models/encoder.ckpt"
 
 ```
+
+#### Data
+[FMA Data](https://github.com/mdeff/fma)
