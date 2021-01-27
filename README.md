@@ -49,6 +49,8 @@ python supervised_examples/cnn_genre_classification.py --metadata_path "/media/m
 #### Data
 [FMA Data](https://github.com/mdeff/fma)
 
+#### Description
+
 This post is a short summary and steps to implement the following paper:
 
 * [Learning of General-Purpose Audio
@@ -65,6 +67,7 @@ and one or more distractors. A model is then trained to match the anchor with
 the positive example.
 
 ![](https://cdn-images-1.medium.com/max/800/1*BsHigYU_qjPpQvq1k09k1A.png)
+
 <span class="figcaption_hack">DPT — Image By Author</span>
 
 One such way of using DPT is to use the triplet loss along with the Cosine
